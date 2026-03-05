@@ -84,5 +84,5 @@ These metrics reflect evaluation on diverse network traffic patterns including n
 - [SecIDS-CNN/README.md](SecIDS-CNN/README.md) — Model source and usage (Hugging Face: [Keyven/SecIDS-CNN](https://huggingface.co/Keyven/SecIDS-CNN))
 
 ## License
-
-MIT. SecIDS-CNN model is under Creative Commons Attribution Non Commercial 4.0 (cc-by-nc-4.0); see [SecIDS-CNN/README.md](SecIDS-CNN/README.md).
+This project is proprietary. All rights reserved.
+See the LICENSE file for details.
